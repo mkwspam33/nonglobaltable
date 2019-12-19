@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="cars" max_length="40" name="x_snc_nonglobaltab_cars" type="collection">
+        <element label="minivan" max_length="40" name="minivan" type="string"/>
+        <element label="sedan" max_length="40" name="sedan" type="string"/>
+        <element label="sports" max_length="40" name="sports" type="string"/>
+    </element>
+</database>
